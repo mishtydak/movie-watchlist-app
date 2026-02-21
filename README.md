@@ -26,3 +26,11 @@ Users can:
 ---
 
 ## 📂 Project Structure
+movie-watchlist-app/
+│
+├── main.go
+├── handlers/
+├── models/
+├── index.html
+├── README.md
+└── .gitignore
